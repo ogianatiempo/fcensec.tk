@@ -1,14 +1,9 @@
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: tocttou/hacker-blog
 
 title: 'FCENSec'
-description: "Hacking club"
+description: 'Hacking club'
 
-header: 'FCENSec'
+baseurl: 'fcensec.tk'
 
-header_pages:
-  - index.md
-  - contacto.md
-
-style: dark
-
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+owner: FCENSec
+year: 2020
