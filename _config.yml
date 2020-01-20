@@ -4,7 +4,7 @@ title: 'FCENSec'
 header_pages:
   - index.md
   - writeups.md
-  - about.md
+  - contacto.md
 
 collections:
   writeups:
