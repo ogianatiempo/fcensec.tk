@@ -6,4 +6,4 @@ permalink: /contacto
 
 ## Querés sumarte?
 
-Escribí a ogianatiempo (at) gmail (dot) com.
+Escribí a octa (at) mailfence (dot) com.
