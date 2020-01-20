@@ -1,12 +1,14 @@
 remote_theme: ogianatiempo/fcensec-theme
 title: 'FCENSec'
-description: "Hacking club"
-
-header: 'FCENSec'
 
 header_pages:
   - index.md
-  - contacto.md
+  - writeups.md
+  - about.md
+
+collections:
+  writeups:
+    output: true
 
 style: dark
 
