@@ -1,9 +1,13 @@
 ---
-title: /
+title: /home
 layout: home
 permalink: /
 ---
 
-# Welcome
+## FCENSec
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Somos un grupo de estudiantes de la FCEN interesados en seguridad informática.
+
+## CTF
+
+Podés jugar a nuestro CTF continuo en [ctf.fcensec.tk](http://ctf.fcensec.tk)
