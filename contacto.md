@@ -1,9 +1,9 @@
 ---
 title: /contacto
 layout: page
-permalink: /contact
+permalink: /contacto
 ---
 
-# Get in touch?
+## Querés sumarte?
 
-
+Escribí a ogianatiempo (at) gmail (dot) com.
